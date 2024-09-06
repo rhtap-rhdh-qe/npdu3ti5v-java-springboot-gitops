@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: npdu3ti5v-java-springboot-gitops-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/npdu3ti5v-java-springboot-gitops
